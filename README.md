@@ -1,4 +1,4 @@
-# Testes Automatizados com RestAssured, Java e Cucumber
+# Testes Automatizados com RestAssured, Java, Lombok e Cucumber
 
 Este repositório contém os testes automatizados para a API do sistema **[Nome do Sistema]** utilizando **RestAssured** para interações com a API, **Java** como linguagem de programação e **Cucumber** para a automação de testes baseados em comportamento (BDD).
 
